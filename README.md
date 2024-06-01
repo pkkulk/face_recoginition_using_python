@@ -1,2 +1,22 @@
-# face_recoginition_using_python
- # Project Description  This project implements real-time face detection using OpenCV in Python. It utilizes the Haar Cascade classifier to detect frontal faces in a live video stream from the default camera. When a face is detected, a green rectangle is drawn around it. The program allows the user to exit by pressing the 'a' key.
+
+# Real-Time Face Detection using OpenCV
+
+This project demonstrates real-time face detection using OpenCV in Python.
+
+## Installation
+
+1. Install Python (if not already installed).
+2. Install OpenCV using pip:
+
+## Usage
+
+1. Run the `face_detection.py` script.
+2. Press the 'a' key to exit the program.
+
+## Contributing
+
+Contributions are welcome! Fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
